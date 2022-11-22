@@ -1,0 +1,36 @@
+body{
+    background-color: #CC9933;
+
+}
+
+table{
+    background-color: #CC9966 ;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+   text-align: center;
+}
+
+.asd{
+    text-align: justify;
+    margin: auto;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    border: 2px solid;
+}
+
+
+.dolt1{
+    font-style: italic;
+    text-align: center;
+}
